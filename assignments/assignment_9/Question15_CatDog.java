@@ -17,14 +17,11 @@ public class Question15_CatDog {
 	        {
 	            ccat++;
 	        }
-
 	        else if(str.charAt(i) == 'd' && str.charAt(i+1)== 'o' && str.charAt(i+2)== 'g')
 	        {
 	            cdog++;
 	        }
-
 	    }
-
 	    if (cdog == ccat)
 	        return true;
 
