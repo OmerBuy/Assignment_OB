@@ -8,7 +8,7 @@ public class Question3 {
 		double cost = 2.25;
 		
 		System.out.print(num+" ");
-		System.out.println(cost);
+		System.out.print(cost);
 		
 		
 	}
